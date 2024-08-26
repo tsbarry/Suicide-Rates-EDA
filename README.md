@@ -80,13 +80,37 @@ The charts above indicate that males have a significantly higher suicide rate th
 
 ![](image/sui_rate_age.jpg) 
 
-The line plot shows that the suicide rate is significantly high for both males and females in the 35 to 54 age group, followed by the 55 to 74 age group surprisingly. 
+The line plot shows that the suicide rate is significantly high for both males and females in the 35 to 54 age group, followed by the 55 to 74 age group surprisingly. Individuals in the 35 to 54 age group may face significant life transitions, such as career changes, financial pressures, and family responsibilities, contributing to stress and mental health issues. The 55 to 74 age group often encounters health problems, physical decline, and chronic illnesses, which can lead to feelings of hopelessness and despair.
 
 ![](image/sui_number_gener.jpg)
 
-
+The scatter plot above illustrates the number of suicides over the years by generation.
 
 
 ![](image/HDI_sui_number_USA.jpg)
 
-![](image/avg_sui_year_USA.jpg)
+The bar graphs above analyze a country's suicide rate in relation to its Human Development Index (HDI). An HDI score above 0.8 is classified as very high, 0.7 to 0.799 as high, 0.550 to 0.699 as medium, and below 0.550 as low. Based on the observations from these graphs, it appears that a country's HDI does not significantly impact its suicide rate. For instance, nations with high HDI scores, such as the US and Russia, exhibit high suicide rates, while others like Argentina, Belarus, and Hungary, despite having a high HDI, show low suicide rates. Therefore, the data suggests that a country's HDI does not consistently correlate with its suicide rate, indicating that other factors beyond socioeconomic development may play a more significant role in influencing suicide rates.
+
+## Results Findings
+The analysis results are summarized as follows:
+
+1. Baby Boomers had the highest suicide rates from 1996 to 2009, followed by Generation X from 2010 to 2016, driven by economic pressures and social challenges specific to each generation.
+2. Males have a significantly higher suicide rate than females, with societal pressures, mental health stigma, and the use of more lethal methods contributing to this disparity.
+3. The 35 to 54 and 55 to 74 age groups show the highest suicide rates, likely due to midlife crises, health issues, economic stress, and social isolation.
+4. Nations like Russia, the US, and Japan exhibit high suicide rates, influenced by economic instability, social pressures, and cultural factors.
+5. A country's HDI does not appear to have a consistent impact on its suicide rate, as nations with both high and low HDI scores show varying suicide rates.
+
+## Recommendations
+Based on the analysis, the following is recommended:
+
+- Target mental health support by Increasing mental health resources and support for high-risk groups, particularly males, middle-aged adults, and the elderly.
+- Address societal pressure by Implementing programs to reduce societal and economic pressures, especially in countries with high suicide rates like the US, Russia, and Japan.
+- Combat mental health stigma by promoting awareness and encouraging help-seeking behavior across all generations.
+- Governments should develop targeted policies to address the unique challenges faced by different generations, such as financial stress and social isolation.
+- Broaden the focus beyond HDI, and recognize that factors beyond socioeconomic development, such as cultural attitudes and social support systems, play crucial roles in suicide prevention efforts.
+
+## Next Action
+Further actions to enhance this project could include 
+- Integrating additional data sources, such as mental health service availability, unemployment rates, and social support networks, to gain a deeper understanding of factors influencing suicide rates.
+- Expand the analysis to include regional or city-level data within countries to identify specific areas with higher suicide rates.
+- Utilize advanced statistical techniques, such as regression analysis or machine learning models, to predict suicide rates based on socioeconomic and demographic factors.
