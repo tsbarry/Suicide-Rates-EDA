@@ -114,3 +114,6 @@ Further actions to enhance this project could include
 - Integrating additional data sources, such as mental health service availability, unemployment rates, and social support networks, to gain a deeper understanding of factors influencing suicide rates.
 - Expand the analysis to include regional or city-level data within countries to identify specific areas with higher suicide rates.
 - Utilize advanced statistical techniques, such as regression analysis or machine learning models, to predict suicide rates based on socioeconomic and demographic factors.
+
+## Tableau 
+Tableau [Download here](https://public.tableau.com/app/profile/thierno.barry8424/viz/GlobalSuicideRate_17247208350630/Dashboard1)
